@@ -1,6 +1,6 @@
 -- Auto-merged module pack (Fish only)
--- Total merged: 174
--- Date: 2025-08-27 07:01:34
+-- Total merged: 155
+-- Date: 2025-09-01 11:22:08
 -- Note: Files with name containing "rod" (case-insensitive) were excluded.
 
 -- Table of Contents --
@@ -29,7 +29,6 @@
 --   Candycane_Lobster.lua
 --   Catfish.lua
 --   Charmed_Tang.lua
---   Christmas_Trophy_2024.lua
 --   Christmastree_Longnose.lua
 --   Chrome_Tuna.lua
 --   Clownfish.lua
@@ -40,18 +39,15 @@
 --   Corazon_Damsel.lua
 --   Cow_Clownfish.lua
 --   Crystal_Crab.lua
---   DEC24_-_Golden_Plaque.lua
---   DEC24_-_Sapphire_Plaque.lua
---   DEC24_-_Silver_Plaque.lua
---   DEC24_-_Wood_Plaque.lua
 --   Dark_Eel.lua
+--   Dark_Tentacle.lua
 --   Darwin_Clownfish.lua
 --   Dead_Fish.lua
 --   Deep_Sea_Crab.lua
---   Diving_Gear.lua
 --   Domino_Damsel.lua
 --   Dorhey_Tang.lua
 --   Dotted_Stingray.lua
+--   Eerie_Shark.lua
 --   Electric_Eel.lua
 --   Enchant_Stone.lua
 --   Enchanted_Angelfish.lua
@@ -61,8 +57,9 @@
 --   Festive_Pufferfish.lua
 --   Fire_Goby.lua
 --   Firecoal_Damsel.lua
---   Fishing_Radar.lua
 --   Flame_Angelfish.lua
+--   Flat_Fish.lua
+--   Flying_Fish.lua
 --   Frog.lua
 --   Frostborn_Shark.lua
 --   Gar_Fish.lua
@@ -90,10 +87,12 @@
 --   Lava_Butterfly.lua
 --   Lavafin_Tuna.lua
 --   Lined_Cardinal_Fish.lua
+--   Lion_Fish.lua
 --   Lobster.lua
 --   Loggerhead_Turtle.lua
 --   Longnose_Butterfly.lua
 --   Loving_Shark.lua
+--   Luminous_Fish.lua
 --   Magic_Tang.lua
 --   Magma_Goby.lua
 --   Manta_Ray.lua
@@ -102,6 +101,7 @@
 --   Maze_Angelfish.lua
 --   Mistletoe_Damsel.lua
 --   Monk_Fish.lua
+--   Monster_Shark.lua
 --   Moorish_Idol.lua
 --   Orange_Basslet.lua
 --   Orangy_Goby.lua
@@ -110,6 +110,7 @@
 --   Parrot_Fish.lua
 --   Patriot_Tang.lua
 --   Pilot_Fish.lua
+--   Pink_Dolphin.lua
 --   Pink_Smith_Damsel.lua
 --   Plasma_Shark.lua
 --   Prismy_Seahorse.lua
@@ -124,6 +125,7 @@
 --   Rockform_Cardianl.lua
 --   Sail_Tang.lua
 --   Salmon.lua
+--   Saw_Fish.lua
 --   Scissortail_Dartfish.lua
 --   Sheepshead_Fish.lua
 --   Shrimp_Goby.lua
@@ -133,10 +135,10 @@
 --   Slurpfish_Chromis.lua
 --   Specked_Butterfly.lua
 --   Spotted_Lantern_Fish.lua
+--   Starfish.lua
 --   Starjam_Tang.lua
 --   Strawberry_Dotty.lua
 --   Strippled_Seahorse.lua
---   Super_Enchant_Stone.lua
 --   Sushi_Cardinal.lua
 --   Swordfish.lua
 --   Thresher_Shark.lua
@@ -148,6 +150,7 @@
 --   Viperfish.lua
 --   Volcanic_Basslet.lua
 --   Volsail_Tang.lua
+--   Wahoo.lua
 --   Watanabei_Angelfish.lua
 --   White_Clownfish.lua
 --   White_Tang.lua
@@ -156,35 +159,13 @@
 --   Yellowfin_Tuna.lua
 --   Yellowstate_Angelfish.lua
 --   Zoster_Butterfly.lua
---   ____Abyssal_Chroma.lua
---   ____Aether_Shard.lua
---   ____Amber.lua
---   ____Aqua_Prism.lua
---   ____Aquatic.lua
---   ____Blossom.lua
---   ____Crystalized.lua
---   ____Cursed.lua
---   ____Earthly.lua
---   ____Enlightened.lua
---   ____Flower_Garden.lua
---   ____Forsaken.lua
---   ____Galactic.lua
---   ____Heavenly.lua
---   ____Jelly.lua
---   ____Lightning.lua
---   ____Lightsaber.lua
---   ____Loving.lua
---   ____Monochrome.lua
---   ____Neptune_s_Trident.lua
---   ____Polarized.lua
---   ____Red_Matter.lua
 
 -- ===== FILE: Abyss_Seahorse.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000182 seconds
+-- Time taken: 0.000199 seconds
 -- Path: ReplicatedStorage/Items/Abyss Seahorse
 
 return {
@@ -214,9 +195,9 @@ return {
 -- ===== FILE: Angler_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000138 seconds
+-- Time taken: 0.000118 seconds
 -- Path: ReplicatedStorage/Items/Angler Fish
 
 return {
@@ -246,9 +227,9 @@ return {
 -- ===== FILE: Ash_Basslet.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000116 seconds
+-- Time taken: 0.000156 seconds
 -- Path: ReplicatedStorage/Items/Ash Basslet
 
 return {
@@ -278,9 +259,9 @@ return {
 -- ===== FILE: Astra_Damsel.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000205 seconds
+-- Time taken: 0.000111 seconds
 -- Path: ReplicatedStorage/Items/Astra Damsel
 
 return {
@@ -310,9 +291,9 @@ return {
 -- ===== FILE: Axolotl.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000101 seconds
+-- Time taken: 0.000137 seconds
 -- Path: ReplicatedStorage/Items/Axolotl
 
 return {
@@ -342,9 +323,9 @@ return {
 -- ===== FILE: Azure_Damsel.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000099 seconds
+-- Time taken: 0.000134 seconds
 -- Path: ReplicatedStorage/Items/Azure Damsel
 
 return {
@@ -357,7 +338,7 @@ return {
         Type = "Fishes";
     };
     Probability = {
-        Chance = 0.25;
+        Chance = 0.5;
     };
     SellPrice = 22;
     Variants = {
@@ -374,9 +355,9 @@ return {
 -- ===== FILE: Ballina_Angelfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000120 seconds
+-- Time taken: 0.000131 seconds
 -- Path: ReplicatedStorage/Items/Ballina Angelfish
 
 return {
@@ -406,9 +387,9 @@ return {
 -- ===== FILE: Banded_Butterfly.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000126 seconds
+-- Time taken: 0.000136 seconds
 -- Path: ReplicatedStorage/Items/Banded Butterfly
 
 return {
@@ -438,9 +419,9 @@ return {
 -- ===== FILE: Bandit_Angelfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000115 seconds
+-- Time taken: 0.000141 seconds
 -- Path: ReplicatedStorage/Items/Bandit Angelfish
 
 return {
@@ -470,9 +451,9 @@ return {
 -- ===== FILE: Barracuda_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000592 seconds
+-- Time taken: 0.000414 seconds
 -- Path: ReplicatedStorage/Items/Barracuda Fish
 
 return {
@@ -502,9 +483,9 @@ return {
 -- ===== FILE: Blackcap_Basslet.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000135 seconds
+-- Time taken: 0.000205 seconds
 -- Path: ReplicatedStorage/Items/Blackcap Basslet
 
 return {
@@ -534,9 +515,9 @@ return {
 -- ===== FILE: Bleekers_Damsel.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000127 seconds
+-- Time taken: 0.000155 seconds
 -- Path: ReplicatedStorage/Items/Bleekers Damsel
 
 return {
@@ -567,9 +548,9 @@ return {
 -- ===== FILE: Blob_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000244 seconds
+-- Time taken: 0.000126 seconds
 -- Path: ReplicatedStorage/Items/Blob Fish
 
 return {
@@ -584,7 +565,7 @@ return {
     Probability = {
         Chance = 0.00002;
     };
-    SellPrice = 27200;
+    SellPrice = 26200;
     Variants = {
     };
     Weight = {
@@ -599,9 +580,9 @@ return {
 -- ===== FILE: Blob_Shark.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000119 seconds
+-- Time taken: 0.000165 seconds
 -- Path: ReplicatedStorage/Items/Blob Shark
 
 return {
@@ -616,7 +597,7 @@ return {
     Probability = {
         Chance = 0.000004;
     };
-    SellPrice = 100000;
+    SellPrice = 84000;
     Variants = {
     };
     Weight = {
@@ -631,9 +612,9 @@ return {
 -- ===== FILE: Blue-Banded_Goby.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000103 seconds
+-- Time taken: 0.000129 seconds
 -- Path: ReplicatedStorage/Items/Blue-Banded Goby
 
 return {
@@ -663,9 +644,9 @@ return {
 -- ===== FILE: Blue_Lobster.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000149 seconds
+-- Time taken: 0.000128 seconds
 -- Path: ReplicatedStorage/Items/Blue Lobster
 
 return {
@@ -695,9 +676,9 @@ return {
 -- ===== FILE: Blueflame_Ray.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000110 seconds
+-- Time taken: 0.000113 seconds
 -- Path: ReplicatedStorage/Items/Blueflame Ray
 
 return {
@@ -727,9 +708,9 @@ return {
 -- ===== FILE: Blumato_Clownfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000110 seconds
+-- Time taken: 0.000155 seconds
 -- Path: ReplicatedStorage/Items/Blumato Clownfish
 
 return {
@@ -759,9 +740,9 @@ return {
 -- ===== FILE: Boa_Angelfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000098 seconds
+-- Time taken: 0.000111 seconds
 -- Path: ReplicatedStorage/Items/Boa Angelfish
 
 return {
@@ -791,9 +772,9 @@ return {
 -- ===== FILE: Boar_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000193 seconds
+-- Time taken: 0.000163 seconds
 -- Path: ReplicatedStorage/Items/Boar Fish
 
 return {
@@ -823,9 +804,9 @@ return {
 -- ===== FILE: Bumblebee_Grouper.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000130 seconds
+-- Time taken: 0.000108 seconds
 -- Path: ReplicatedStorage/Items/Bumblebee Grouper
 
 return {
@@ -855,9 +836,9 @@ return {
 -- ===== FILE: Candy_Butterfly.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000106 seconds
+-- Time taken: 0.000114 seconds
 -- Path: ReplicatedStorage/Items/Candy Butterfly
 
 return {
@@ -887,9 +868,9 @@ return {
 -- ===== FILE: Candycane_Lobster.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000102 seconds
+-- Time taken: 0.000123 seconds
 -- Path: ReplicatedStorage/Items/Candycane Lobster
 
 return {
@@ -919,9 +900,9 @@ return {
 -- ===== FILE: Catfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000512 seconds
+-- Time taken: 0.000160 seconds
 -- Path: ReplicatedStorage/Items/Catfish
 
 return {
@@ -951,9 +932,9 @@ return {
 -- ===== FILE: Charmed_Tang.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000153 seconds
+-- Time taken: 0.000120 seconds
 -- Path: ReplicatedStorage/Items/Charmed Tang
 
 return {
@@ -980,34 +961,12 @@ return {
 	_moduleScript = script;
 }
 
--- ===== FILE: Christmas_Trophy_2024.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000067 seconds
--- Path: ReplicatedStorage/Items/Christmas Trophy 2024
-
-return {
-    Data = {
-        Description = "You completed the 2024 Christmas event!";
-        Icon = "rbxassetid://139475070609098";
-        Id = 104;
-        Name = "Christmas Trophy 2024";
-        Tier = 90;
-        Type = "Trophies";
-    };
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
 -- ===== FILE: Christmastree_Longnose.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000183 seconds
+-- Time taken: 0.000173 seconds
 -- Path: ReplicatedStorage/Items/Christmastree Longnose
 
 return {
@@ -1037,7 +996,7 @@ return {
 -- ===== FILE: Chrome_Tuna.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
 -- Time taken: 0.000109 seconds
 -- Path: ReplicatedStorage/Items/Chrome Tuna
@@ -1069,9 +1028,9 @@ return {
 -- ===== FILE: Clownfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000112 seconds
+-- Time taken: 0.000110 seconds
 -- Path: ReplicatedStorage/Items/Clownfish
 
 return {
@@ -1101,9 +1060,9 @@ return {
 -- ===== FILE: Coal_Tang.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000170 seconds
+-- Time taken: 0.000197 seconds
 -- Path: ReplicatedStorage/Items/Coal Tang
 
 return {
@@ -1133,9 +1092,9 @@ return {
 -- ===== FILE: Coney_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000135 seconds
+-- Time taken: 0.000154 seconds
 -- Path: ReplicatedStorage/Items/Coney Fish
 
 return {
@@ -1165,9 +1124,9 @@ return {
 -- ===== FILE: Conspi_Angelfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000118 seconds
+-- Time taken: 0.000129 seconds
 -- Path: ReplicatedStorage/Items/Conspi Angelfish
 
 return {
@@ -1197,9 +1156,9 @@ return {
 -- ===== FILE: Copperband_Butterfly.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000144 seconds
+-- Time taken: 0.000165 seconds
 -- Path: ReplicatedStorage/Items/Copperband Butterfly
 
 return {
@@ -1229,9 +1188,9 @@ return {
 -- ===== FILE: Corazon_Damsel.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000096 seconds
+-- Time taken: 0.000177 seconds
 -- Path: ReplicatedStorage/Items/Corazon Damsel
 
 return {
@@ -1261,9 +1220,9 @@ return {
 -- ===== FILE: Cow_Clownfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000146 seconds
+-- Time taken: 0.000140 seconds
 -- Path: ReplicatedStorage/Items/Cow Clownfish
 
 return {
@@ -1293,9 +1252,9 @@ return {
 -- ===== FILE: Crystal_Crab.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000278 seconds
+-- Time taken: 0.000155 seconds
 -- Path: ReplicatedStorage/Items/Crystal Crab
 
 return {
@@ -1322,100 +1281,12 @@ return {
 	_moduleScript = script;
 }
 
--- ===== FILE: DEC24_-_Golden_Plaque.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000067 seconds
--- Path: ReplicatedStorage/Items/DEC24 - Golden Plaque
-
-return {
-    Data = {
-        Description = "December Golden plaque";
-        Icon = "rbxassetid://85571255574708";
-        Id = 11;
-        Name = "DEC24 - Golden Plaque";
-        Tier = 90;
-        Type = "Trophies";
-    };
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: DEC24_-_Sapphire_Plaque.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000100 seconds
--- Path: ReplicatedStorage/Items/DEC24 - Sapphire Plaque
-
-return {
-    Data = {
-        Description = "December Sapphire plaque";
-        Icon = "rbxassetid://119747646543723";
-        Id = 12;
-        Name = "DEC24 - Sapphire Plaque";
-        Tier = 90;
-        Type = "Trophies";
-    };
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: DEC24_-_Silver_Plaque.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000072 seconds
--- Path: ReplicatedStorage/Items/DEC24 - Silver Plaque
-
-return {
-    Data = {
-        Description = "December Silver plaque";
-        Icon = "rbxassetid://121596290109429";
-        Id = 13;
-        Name = "DEC24 - Silver Plaque";
-        Tier = 90;
-        Type = "Trophies";
-    };
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: DEC24_-_Wood_Plaque.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000069 seconds
--- Path: ReplicatedStorage/Items/DEC24 - Wood Plaque
-
-return {
-    Data = {
-        Description = "December Wood plaque";
-        Icon = "rbxassetid://0";
-        Id = 118;
-        Name = "DEC24 - Wood Plaque";
-        Tier = 90;
-        Type = "Trophies";
-    };
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
 -- ===== FILE: Dark_Eel.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000348 seconds
+-- Time taken: 0.000128 seconds
 -- Path: ReplicatedStorage/Items/Dark Eel
 
 return {
@@ -1442,12 +1313,44 @@ return {
 	_moduleScript = script;
 }
 
+-- ===== FILE: Dark_Tentacle.lua =====
+-- Decompiler will be improved VERY SOON!
+-- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
+-- Decompiled on 2025-09-01 22:14:25
+-- Luau version 6, Types version 3
+-- Time taken: 0.000125 seconds
+-- Path: ReplicatedStorage/Items/Dark Tentacle
+
+return {
+    Data = {
+        Description = "";
+        Icon = "rbxassetid://82928155035287";
+        Id = 210;
+        Name = "Dark Tentacle";
+        Tier = 3;
+        Type = "Fishes";
+    };
+    Probability = {
+        Chance = 0.0033333333333333335;
+    };
+    SellPrice = 392;
+    Variants = {
+    };
+    Weight = {
+        Big = NumberRange.new(1.5499999523162842, 1.940000057220459);
+        Default = NumberRange.new(0.9200000166893005, 1.3200000524520874);
+    };
+    _moduleScript = nil;
+,
+	_moduleScript = script;
+}
+
 -- ===== FILE: Darwin_Clownfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000104 seconds
+-- Time taken: 0.000212 seconds
 -- Path: ReplicatedStorage/Items/Darwin Clownfish
 
 return {
@@ -1477,9 +1380,9 @@ return {
 -- ===== FILE: Dead_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000300 seconds
+-- Time taken: 0.000171 seconds
 -- Path: ReplicatedStorage/Items/Dead Fish
 
 return {
@@ -1509,9 +1412,9 @@ return {
 -- ===== FILE: Deep_Sea_Crab.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000105 seconds
+-- Time taken: 0.000113 seconds
 -- Path: ReplicatedStorage/Items/Deep Sea Crab
 
 return {
@@ -1538,37 +1441,12 @@ return {
 	_moduleScript = script;
 }
 
--- ===== FILE: Diving_Gear.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000220 seconds
--- Path: ReplicatedStorage/Items/Diving Gear
-
-return {
-    Data = {
-        Description = "Increases the time you can dive!";
-        Icon = "rbxassetid://70900622237072";
-        Id = 105;
-        Name = "Diving Gear";
-        Tier = 5;
-        Type = "Gears";
-    };
-    MaxOxygen = 5000;
-    Price = 75000;
-    RegenOxygen = 30;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
 -- ===== FILE: Domino_Damsel.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000108 seconds
+-- Time taken: 0.000131 seconds
 -- Path: ReplicatedStorage/Items/Domino Damsel
 
 return {
@@ -1598,9 +1476,9 @@ return {
 -- ===== FILE: Dorhey_Tang.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000124 seconds
+-- Time taken: 0.000142 seconds
 -- Path: ReplicatedStorage/Items/Dorhey Tang
 
 return {
@@ -1630,9 +1508,9 @@ return {
 -- ===== FILE: Dotted_Stingray.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000114 seconds
+-- Time taken: 0.000129 seconds
 -- Path: ReplicatedStorage/Items/Dotted Stingray
 
 return {
@@ -1659,12 +1537,44 @@ return {
 	_moduleScript = script;
 }
 
+-- ===== FILE: Eerie_Shark.lua =====
+-- Decompiler will be improved VERY SOON!
+-- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
+-- Decompiled on 2025-09-01 22:14:26
+-- Luau version 6, Types version 3
+-- Time taken: 0.000217 seconds
+-- Path: ReplicatedStorage/Items/Eerie Shark
+
+return {
+    Data = {
+        Description = "";
+        Icon = "rbxassetid://114252804065144";
+        Id = 201;
+        Name = "Eerie Shark";
+        Tier = 7;
+        Type = "Fishes";
+    };
+    Probability = {
+        Chance = 0.000004;
+    };
+    SellPrice = 88500;
+    Variants = {
+    };
+    Weight = {
+        Big = NumberRange.new(2232, 2810);
+        Default = NumberRange.new(1014, 1828);
+    };
+    _moduleScript = nil;
+,
+	_moduleScript = script;
+}
+
 -- ===== FILE: Electric_Eel.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000309 seconds
+-- Time taken: 0.000124 seconds
 -- Path: ReplicatedStorage/Items/Electric Eel
 
 return {
@@ -1694,9 +1604,9 @@ return {
 -- ===== FILE: Enchant_Stone.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000269 seconds
+-- Time taken: 0.000203 seconds
 -- Path: ReplicatedStorage/Items/Enchant Stone
 
 return {
@@ -1736,9 +1646,9 @@ return {
 -- ===== FILE: Enchanted_Angelfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000109 seconds
+-- Time taken: 0.000124 seconds
 -- Path: ReplicatedStorage/Items/Enchanted Angelfish
 
 return {
@@ -1768,9 +1678,9 @@ return {
 -- ===== FILE: Fade_Tang.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000128 seconds
+-- Time taken: 0.000143 seconds
 -- Path: ReplicatedStorage/Items/Fade Tang
 
 return {
@@ -1800,9 +1710,9 @@ return {
 -- ===== FILE: Fangtooth.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000228 seconds
+-- Time taken: 0.000153 seconds
 -- Path: ReplicatedStorage/Items/Fangtooth
 
 return {
@@ -1832,9 +1742,9 @@ return {
 -- ===== FILE: Festive_Goby.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000106 seconds
+-- Time taken: 0.000153 seconds
 -- Path: ReplicatedStorage/Items/Festive Goby
 
 return {
@@ -1864,9 +1774,9 @@ return {
 -- ===== FILE: Festive_Pufferfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000199 seconds
+-- Time taken: 0.000125 seconds
 -- Path: ReplicatedStorage/Items/Festive Pufferfish
 
 return {
@@ -1896,9 +1806,9 @@ return {
 -- ===== FILE: Fire_Goby.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000164 seconds
+-- Time taken: 0.000123 seconds
 -- Path: ReplicatedStorage/Items/Fire Goby
 
 return {
@@ -1928,9 +1838,9 @@ return {
 -- ===== FILE: Firecoal_Damsel.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000103 seconds
+-- Time taken: 0.000130 seconds
 -- Path: ReplicatedStorage/Items/Firecoal Damsel
 
 return {
@@ -1957,36 +1867,12 @@ return {
 	_moduleScript = script;
 }
 
--- ===== FILE: Fishing_Radar.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000082 seconds
--- Path: ReplicatedStorage/Items/Fishing Radar
-
-return {
-    Data = {
-        Description = "Fishing Radar";
-        Icon = "rbxassetid://93370980069910";
-        Id = 81;
-        Name = "Fishing Radar";
-        Tier = 3;
-        Type = "Gears";
-    };
-    Price = 3000;
-    SellPrice = 1000;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
 -- ===== FILE: Flame_Angelfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000109 seconds
+-- Time taken: 0.000126 seconds
 -- Path: ReplicatedStorage/Items/Flame Angelfish
 
 return {
@@ -2013,12 +1899,76 @@ return {
 	_moduleScript = script;
 }
 
+-- ===== FILE: Flat_Fish.lua =====
+-- Decompiler will be improved VERY SOON!
+-- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
+-- Decompiled on 2025-09-01 22:14:25
+-- Luau version 6, Types version 3
+-- Time taken: 0.000208 seconds
+-- Path: ReplicatedStorage/Items/Flat Fish
+
+return {
+    Data = {
+        Description = "";
+        Icon = "rbxassetid://72446028934813";
+        Id = 202;
+        Name = "Flat Fish";
+        Tier = 2;
+        Type = "Fishes";
+    };
+    Probability = {
+        Chance = 0.02;
+    };
+    SellPrice = 58;
+    Variants = {
+    };
+    Weight = {
+        Big = NumberRange.new(1.7599999904632568, 2.2699999809265137);
+        Default = NumberRange.new(0.9100000262260437, 1.3700000047683716);
+    };
+    _moduleScript = nil;
+,
+	_moduleScript = script;
+}
+
+-- ===== FILE: Flying_Fish.lua =====
+-- Decompiler will be improved VERY SOON!
+-- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
+-- Decompiled on 2025-09-01 22:14:25
+-- Luau version 6, Types version 3
+-- Time taken: 0.000142 seconds
+-- Path: ReplicatedStorage/Items/Flying Fish
+
+return {
+    Data = {
+        Description = "";
+        Icon = "rbxassetid://76398271598694";
+        Id = 203;
+        Name = "Flying Fish";
+        Tier = 2;
+        Type = "Fishes";
+    };
+    Probability = {
+        Chance = 0.02;
+    };
+    SellPrice = 55;
+    Variants = {
+    };
+    Weight = {
+        Big = NumberRange.new(1.1200000047683716, 1.3600000143051147);
+        Default = NumberRange.new(0.6100000143051147, 0.9200000166893005);
+    };
+    _moduleScript = nil;
+,
+	_moduleScript = script;
+}
+
 -- ===== FILE: Frog.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000123 seconds
+-- Time taken: 0.000148 seconds
 -- Path: ReplicatedStorage/Items/Frog
 
 return {
@@ -2048,9 +1998,9 @@ return {
 -- ===== FILE: Frostborn_Shark.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000104 seconds
+-- Time taken: 0.000213 seconds
 -- Path: ReplicatedStorage/Items/Frostborn Shark
 
 return {
@@ -2080,9 +2030,9 @@ return {
 -- ===== FILE: Gar_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000133 seconds
+-- Time taken: 0.000190 seconds
 -- Path: ReplicatedStorage/Items/Gar Fish
 
 return {
@@ -2112,9 +2062,9 @@ return {
 -- ===== FILE: Ghost_Shark.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000270 seconds
+-- Time taken: 0.000134 seconds
 -- Path: ReplicatedStorage/Items/Ghost Shark
 
 return {
@@ -2144,9 +2094,9 @@ return {
 -- ===== FILE: Ghost_Worm_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000395 seconds
+-- Time taken: 0.000137 seconds
 -- Path: ReplicatedStorage/Items/Ghost Worm Fish
 
 return {
@@ -2157,6 +2107,9 @@ return {
         Name = "Ghost Worm Fish";
         Tier = 7;
         Type = "Fishes";
+    };
+    Events = {
+        [1] = "Admin - Ghost Worm";
     };
     Probability = {
         Chance = 0.000001;
@@ -2176,9 +2129,9 @@ return {
 -- ===== FILE: Giant_Squid.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000189 seconds
+-- Time taken: 0.000133 seconds
 -- Path: ReplicatedStorage/Items/Giant Squid
 
 return {
@@ -2208,9 +2161,9 @@ return {
 -- ===== FILE: Gingerbread_Clownfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000142 seconds
+-- Time taken: 0.000124 seconds
 -- Path: ReplicatedStorage/Items/Gingerbread Clownfish
 
 return {
@@ -2240,9 +2193,9 @@ return {
 -- ===== FILE: Gingerbread_Shark.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000103 seconds
+-- Time taken: 0.000120 seconds
 -- Path: ReplicatedStorage/Items/Gingerbread Shark
 
 return {
@@ -2272,9 +2225,9 @@ return {
 -- ===== FILE: Gingerbread_Tang.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000123 seconds
+-- Time taken: 0.000138 seconds
 -- Path: ReplicatedStorage/Items/Gingerbread Tang
 
 return {
@@ -2304,9 +2257,9 @@ return {
 -- ===== FILE: Gingerbread_Turtle.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000104 seconds
+-- Time taken: 0.000116 seconds
 -- Path: ReplicatedStorage/Items/Gingerbread Turtle
 
 return {
@@ -2336,9 +2289,9 @@ return {
 -- ===== FILE: Great_Christmas_Whale.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000151 seconds
+-- Time taken: 0.000114 seconds
 -- Path: ReplicatedStorage/Items/Great Christmas Whale
 
 return {
@@ -2368,9 +2321,9 @@ return {
 -- ===== FILE: Great_Whale.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000126 seconds
+-- Time taken: 0.000135 seconds
 -- Path: ReplicatedStorage/Items/Great Whale
 
 return {
@@ -2400,9 +2353,9 @@ return {
 -- ===== FILE: Greenbee_Grouper.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000172 seconds
+-- Time taken: 0.000139 seconds
 -- Path: ReplicatedStorage/Items/Greenbee Grouper
 
 return {
@@ -2432,9 +2385,9 @@ return {
 -- ===== FILE: Hammerhead_Shark.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000107 seconds
+-- Time taken: 0.000130 seconds
 -- Path: ReplicatedStorage/Items/Hammerhead Shark
 
 return {
@@ -2449,7 +2402,7 @@ return {
     Probability = {
         Chance = 0.00001000010000100001;
     };
-    SellPrice = 49500;
+    SellPrice = 46500;
     Variants = {
     };
     Weight = {
@@ -2464,9 +2417,9 @@ return {
 -- ===== FILE: Hawks_Turtle.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000188 seconds
+-- Time taken: 0.000132 seconds
 -- Path: ReplicatedStorage/Items/Hawks Turtle
 
 return {
@@ -2496,9 +2449,9 @@ return {
 -- ===== FILE: Hermit_Crab.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000383 seconds
+-- Time taken: 0.000127 seconds
 -- Path: ReplicatedStorage/Items/Hermit Crab
 
 return {
@@ -2528,9 +2481,9 @@ return {
 -- ===== FILE: Herring_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000141 seconds
+-- Time taken: 0.000116 seconds
 -- Path: ReplicatedStorage/Items/Herring Fish
 
 return {
@@ -2560,9 +2513,9 @@ return {
 -- ===== FILE: Jellyfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000127 seconds
+-- Time taken: 0.000118 seconds
 -- Path: ReplicatedStorage/Items/Jellyfish
 
 return {
@@ -2592,9 +2545,9 @@ return {
 -- ===== FILE: Jennifer_Dottyback.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000155 seconds
+-- Time taken: 0.000128 seconds
 -- Path: ReplicatedStorage/Items/Jennifer Dottyback
 
 return {
@@ -2624,9 +2577,9 @@ return {
 -- ===== FILE: Jewel_Tang.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000165 seconds
+-- Time taken: 0.000127 seconds
 -- Path: ReplicatedStorage/Items/Jewel Tang
 
 return {
@@ -2656,9 +2609,9 @@ return {
 -- ===== FILE: Kau_Cardinal.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000164 seconds
+-- Time taken: 0.000130 seconds
 -- Path: ReplicatedStorage/Items/Kau Cardinal
 
 return {
@@ -2688,9 +2641,9 @@ return {
 -- ===== FILE: King_Crab.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000110 seconds
+-- Time taken: 0.000131 seconds
 -- Path: ReplicatedStorage/Items/King Crab
 
 return {
@@ -2720,9 +2673,9 @@ return {
 -- ===== FILE: Korean_Angelfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000112 seconds
+-- Time taken: 0.000129 seconds
 -- Path: ReplicatedStorage/Items/Korean Angelfish
 
 return {
@@ -2752,9 +2705,9 @@ return {
 -- ===== FILE: Lake_Sturgeon.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000176 seconds
+-- Time taken: 0.000163 seconds
 -- Path: ReplicatedStorage/Items/Lake Sturgeon
 
 return {
@@ -2784,9 +2737,9 @@ return {
 -- ===== FILE: Lava_Butterfly.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000175 seconds
+-- Time taken: 0.000140 seconds
 -- Path: ReplicatedStorage/Items/Lava Butterfly
 
 return {
@@ -2816,9 +2769,9 @@ return {
 -- ===== FILE: Lavafin_Tuna.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000107 seconds
+-- Time taken: 0.000133 seconds
 -- Path: ReplicatedStorage/Items/Lavafin Tuna
 
 return {
@@ -2848,9 +2801,9 @@ return {
 -- ===== FILE: Lined_Cardinal_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000107 seconds
+-- Time taken: 0.000133 seconds
 -- Path: ReplicatedStorage/Items/Lined Cardinal Fish
 
 return {
@@ -2877,12 +2830,44 @@ return {
 	_moduleScript = script;
 }
 
+-- ===== FILE: Lion_Fish.lua =====
+-- Decompiler will be improved VERY SOON!
+-- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
+-- Decompiled on 2025-09-01 22:14:25
+-- Luau version 6, Types version 3
+-- Time taken: 0.000166 seconds
+-- Path: ReplicatedStorage/Items/Lion Fish
+
+return {
+    Data = {
+        Description = "";
+        Icon = "rbxassetid://92595165502684";
+        Id = 204;
+        Name = "Lion Fish";
+        Tier = 2;
+        Type = "Fishes";
+    };
+    Probability = {
+        Chance = 0.01;
+    };
+    SellPrice = 143;
+    Variants = {
+    };
+    Weight = {
+        Big = NumberRange.new(8.199999809265137, 9.5);
+        Default = NumberRange.new(6.300000190734863, 7.099999904632568);
+    };
+    _moduleScript = nil;
+,
+	_moduleScript = script;
+}
+
 -- ===== FILE: Lobster.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000107 seconds
+-- Time taken: 0.000127 seconds
 -- Path: ReplicatedStorage/Items/Lobster
 
 return {
@@ -2912,9 +2897,9 @@ return {
 -- ===== FILE: Loggerhead_Turtle.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000169 seconds
+-- Time taken: 0.000248 seconds
 -- Path: ReplicatedStorage/Items/Loggerhead Turtle
 
 return {
@@ -2944,9 +2929,9 @@ return {
 -- ===== FILE: Longnose_Butterfly.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000114 seconds
+-- Time taken: 0.000109 seconds
 -- Path: ReplicatedStorage/Items/Longnose Butterfly
 
 return {
@@ -2976,9 +2961,9 @@ return {
 -- ===== FILE: Loving_Shark.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000137 seconds
+-- Time taken: 0.000160 seconds
 -- Path: ReplicatedStorage/Items/Loving Shark
 
 return {
@@ -3006,12 +2991,44 @@ return {
 	_moduleScript = script;
 }
 
+-- ===== FILE: Luminous_Fish.lua =====
+-- Decompiler will be improved VERY SOON!
+-- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
+-- Decompiled on 2025-09-01 22:14:26
+-- Luau version 6, Types version 3
+-- Time taken: 0.000185 seconds
+-- Path: ReplicatedStorage/Items/Luminous Fish
+
+return {
+    Data = {
+        Description = "";
+        Icon = "rbxassetid://78374908088019";
+        Id = 205;
+        Name = "Luminous Fish";
+        Tier = 6;
+        Type = "Fishes";
+    };
+    Probability = {
+        Chance = 0.0000125;
+    };
+    SellPrice = 31150;
+    Variants = {
+    };
+    Weight = {
+        Big = NumberRange.new(110.30000305175781, 160.10000610351562);
+        Default = NumberRange.new(60.20000076293945, 90.5);
+    };
+    _moduleScript = nil;
+,
+	_moduleScript = script;
+}
+
 -- ===== FILE: Magic_Tang.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000142 seconds
+-- Time taken: 0.000116 seconds
 -- Path: ReplicatedStorage/Items/Magic Tang
 
 return {
@@ -3041,9 +3058,9 @@ return {
 -- ===== FILE: Magma_Goby.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000201 seconds
+-- Time taken: 0.000117 seconds
 -- Path: ReplicatedStorage/Items/Magma Goby
 
 return {
@@ -3073,9 +3090,9 @@ return {
 -- ===== FILE: Manta_Ray.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000118 seconds
+-- Time taken: 0.000120 seconds
 -- Path: ReplicatedStorage/Items/Manta Ray
 
 return {
@@ -3105,9 +3122,9 @@ return {
 -- ===== FILE: Maroon_Butterfly.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000260 seconds
+-- Time taken: 0.000128 seconds
 -- Path: ReplicatedStorage/Items/Maroon Butterfly
 
 return {
@@ -3137,9 +3154,9 @@ return {
 -- ===== FILE: Masked_Angelfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000103 seconds
+-- Time taken: 0.000142 seconds
 -- Path: ReplicatedStorage/Items/Masked Angelfish
 
 return {
@@ -3169,9 +3186,9 @@ return {
 -- ===== FILE: Maze_Angelfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000105 seconds
+-- Time taken: 0.000133 seconds
 -- Path: ReplicatedStorage/Items/Maze Angelfish
 
 return {
@@ -3201,9 +3218,9 @@ return {
 -- ===== FILE: Mistletoe_Damsel.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000130 seconds
+-- Time taken: 0.000152 seconds
 -- Path: ReplicatedStorage/Items/Mistletoe Damsel
 
 return {
@@ -3233,9 +3250,9 @@ return {
 -- ===== FILE: Monk_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000187 seconds
+-- Time taken: 0.000138 seconds
 -- Path: ReplicatedStorage/Items/Monk Fish
 
 return {
@@ -3262,12 +3279,44 @@ return {
 	_moduleScript = script;
 }
 
+-- ===== FILE: Monster_Shark.lua =====
+-- Decompiler will be improved VERY SOON!
+-- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
+-- Decompiled on 2025-09-01 22:14:26
+-- Luau version 6, Types version 3
+-- Time taken: 0.000160 seconds
+-- Path: ReplicatedStorage/Items/Monster Shark
+
+return {
+    Data = {
+        Description = "";
+        Icon = "rbxassetid://109551787474599";
+        Id = 206;
+        Name = "Monster Shark";
+        Tier = 7;
+        Type = "Fishes";
+    };
+    Probability = {
+        Chance = 4e-07;
+    };
+    SellPrice = 245000;
+    Variants = {
+    };
+    Weight = {
+        Big = NumberRange.new(185096, 245172);
+        Default = NumberRange.new(130405, 165607);
+    };
+    _moduleScript = nil;
+,
+	_moduleScript = script;
+}
+
 -- ===== FILE: Moorish_Idol.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000157 seconds
+-- Time taken: 0.000126 seconds
 -- Path: ReplicatedStorage/Items/Moorish Idol
 
 return {
@@ -3297,9 +3346,9 @@ return {
 -- ===== FILE: Orange_Basslet.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000144 seconds
+-- Time taken: 0.000116 seconds
 -- Path: ReplicatedStorage/Items/Orange Basslet
 
 return {
@@ -3329,9 +3378,9 @@ return {
 -- ===== FILE: Orangy_Goby.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000109 seconds
+-- Time taken: 0.000122 seconds
 -- Path: ReplicatedStorage/Items/Orangy Goby
 
 return {
@@ -3361,9 +3410,9 @@ return {
 -- ===== FILE: Orca.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000141 seconds
+-- Time taken: 0.000303 seconds
 -- Path: ReplicatedStorage/Items/Orca
 
 return {
@@ -3393,9 +3442,9 @@ return {
 -- ===== FILE: Panther_Grouper.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000168 seconds
+-- Time taken: 0.000120 seconds
 -- Path: ReplicatedStorage/Items/Panther Grouper
 
 return {
@@ -3425,9 +3474,9 @@ return {
 -- ===== FILE: Parrot_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000152 seconds
+-- Time taken: 0.000193 seconds
 -- Path: ReplicatedStorage/Items/Parrot Fish
 
 return {
@@ -3457,9 +3506,9 @@ return {
 -- ===== FILE: Patriot_Tang.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000176 seconds
+-- Time taken: 0.000127 seconds
 -- Path: ReplicatedStorage/Items/Patriot Tang
 
 return {
@@ -3489,9 +3538,9 @@ return {
 -- ===== FILE: Pilot_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000191 seconds
+-- Time taken: 0.000126 seconds
 -- Path: ReplicatedStorage/Items/Pilot Fish
 
 return {
@@ -3518,12 +3567,44 @@ return {
 	_moduleScript = script;
 }
 
+-- ===== FILE: Pink_Dolphin.lua =====
+-- Decompiler will be improved VERY SOON!
+-- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
+-- Decompiled on 2025-09-01 22:14:26
+-- Luau version 6, Types version 3
+-- Time taken: 0.000193 seconds
+-- Path: ReplicatedStorage/Items/Pink Dolphin
+
+return {
+    Data = {
+        Description = "";
+        Icon = "rbxassetid://86256600614394";
+        Id = 207;
+        Name = "Pink Dolphin";
+        Tier = 4;
+        Type = "Fishes";
+    };
+    Probability = {
+        Chance = 0.0002;
+    };
+    SellPrice = 3910;
+    Variants = {
+    };
+    Weight = {
+        Big = NumberRange.new(140.1999969482422, 211.5);
+        Default = NumberRange.new(80.19999694824219, 116.69999694824219);
+    };
+    _moduleScript = nil;
+,
+	_moduleScript = script;
+}
+
 -- ===== FILE: Pink_Smith_Damsel.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000108 seconds
+-- Time taken: 0.000157 seconds
 -- Path: ReplicatedStorage/Items/Pink Smith Damsel
 
 return {
@@ -3554,9 +3635,9 @@ return {
 -- ===== FILE: Plasma_Shark.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000123 seconds
+-- Time taken: 0.000136 seconds
 -- Path: ReplicatedStorage/Items/Plasma Shark
 
 return {
@@ -3586,9 +3667,9 @@ return {
 -- ===== FILE: Prismy_Seahorse.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000101 seconds
+-- Time taken: 0.000117 seconds
 -- Path: ReplicatedStorage/Items/Prismy Seahorse
 
 return {
@@ -3618,9 +3699,9 @@ return {
 -- ===== FILE: Pufferfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000101 seconds
+-- Time taken: 0.000144 seconds
 -- Path: ReplicatedStorage/Items/Pufferfish
 
 return {
@@ -3650,9 +3731,9 @@ return {
 -- ===== FILE: Pygmy_Goby.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000190 seconds
+-- Time taken: 0.000124 seconds
 -- Path: ReplicatedStorage/Items/Pygmy Goby
 
 return {
@@ -3682,9 +3763,9 @@ return {
 -- ===== FILE: Queen_Crab.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000418 seconds
+-- Time taken: 0.000159 seconds
 -- Path: ReplicatedStorage/Items/Queen Crab
 
 return {
@@ -3714,9 +3795,9 @@ return {
 -- ===== FILE: Racoon_Butterfly_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000202 seconds
+-- Time taken: 0.000173 seconds
 -- Path: ReplicatedStorage/Items/Racoon Butterfly Fish
 
 return {
@@ -3746,9 +3827,9 @@ return {
 -- ===== FILE: Red_Snapper.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000136 seconds
+-- Time taken: 0.000167 seconds
 -- Path: ReplicatedStorage/Items/Red Snapper
 
 return {
@@ -3778,9 +3859,9 @@ return {
 -- ===== FILE: Reef_Chromis.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000160 seconds
+-- Time taken: 0.000109 seconds
 -- Path: ReplicatedStorage/Items/Reef Chromis
 
 return {
@@ -3810,9 +3891,9 @@ return {
 -- ===== FILE: Robot_Kraken.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000134 seconds
+-- Time taken: 0.000139 seconds
 -- Path: ReplicatedStorage/Items/Robot Kraken
 
 return {
@@ -3842,9 +3923,9 @@ return {
 -- ===== FILE: Rockfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000154 seconds
+-- Time taken: 0.000113 seconds
 -- Path: ReplicatedStorage/Items/Rockfish
 
 return {
@@ -3874,9 +3955,9 @@ return {
 -- ===== FILE: Rockform_Cardianl.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000169 seconds
+-- Time taken: 0.000135 seconds
 -- Path: ReplicatedStorage/Items/Rockform Cardianl
 
 return {
@@ -3906,9 +3987,9 @@ return {
 -- ===== FILE: Sail_Tang.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000105 seconds
+-- Time taken: 0.000139 seconds
 -- Path: ReplicatedStorage/Items/Sail Tang
 
 return {
@@ -3938,9 +4019,9 @@ return {
 -- ===== FILE: Salmon.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000127 seconds
+-- Time taken: 0.000134 seconds
 -- Path: ReplicatedStorage/Items/Salmon
 
 return {
@@ -3967,12 +4048,44 @@ return {
 	_moduleScript = script;
 }
 
+-- ===== FILE: Saw_Fish.lua =====
+-- Decompiler will be improved VERY SOON!
+-- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
+-- Decompiled on 2025-09-01 22:14:25
+-- Luau version 6, Types version 3
+-- Time taken: 0.000198 seconds
+-- Path: ReplicatedStorage/Items/Saw Fish
+
+return {
+    Data = {
+        Description = "";
+        Icon = "rbxassetid://102132456822726";
+        Id = 208;
+        Name = "Saw Fish";
+        Tier = 5;
+        Type = "Fishes";
+    };
+    Probability = {
+        Chance = 0.00006666666666666667;
+    };
+    SellPrice = 11250;
+    Variants = {
+    };
+    Weight = {
+        Big = NumberRange.new(416.20001220703125, 593.2000122070312);
+        Default = NumberRange.new(218.39999389648438, 362.5);
+    };
+    _moduleScript = nil;
+,
+	_moduleScript = script;
+}
+
 -- ===== FILE: Scissortail_Dartfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000119 seconds
+-- Time taken: 0.000123 seconds
 -- Path: ReplicatedStorage/Items/Scissortail Dartfish
 
 return {
@@ -4002,9 +4115,9 @@ return {
 -- ===== FILE: Sheepshead_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000442 seconds
+-- Time taken: 0.000184 seconds
 -- Path: ReplicatedStorage/Items/Sheepshead Fish
 
 return {
@@ -4034,9 +4147,9 @@ return {
 -- ===== FILE: Shrimp_Goby.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000148 seconds
+-- Time taken: 0.000137 seconds
 -- Path: ReplicatedStorage/Items/Shrimp Goby
 
 return {
@@ -4066,9 +4179,9 @@ return {
 -- ===== FILE: Silver_Tuna.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000107 seconds
+-- Time taken: 0.000133 seconds
 -- Path: ReplicatedStorage/Items/Silver Tuna
 
 return {
@@ -4098,9 +4211,9 @@ return {
 -- ===== FILE: Skeleton_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000373 seconds
+-- Time taken: 0.000144 seconds
 -- Path: ReplicatedStorage/Items/Skeleton Fish
 
 return {
@@ -4130,9 +4243,9 @@ return {
 -- ===== FILE: Skunk_Tilefish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000109 seconds
+-- Time taken: 0.000111 seconds
 -- Path: ReplicatedStorage/Items/Skunk Tilefish
 
 return {
@@ -4162,9 +4275,9 @@ return {
 -- ===== FILE: Slurpfish_Chromis.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000129 seconds
+-- Time taken: 0.000128 seconds
 -- Path: ReplicatedStorage/Items/Slurpfish Chromis
 
 return {
@@ -4194,9 +4307,9 @@ return {
 -- ===== FILE: Specked_Butterfly.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000103 seconds
+-- Time taken: 0.000113 seconds
 -- Path: ReplicatedStorage/Items/Specked Butterfly
 
 return {
@@ -4226,9 +4339,9 @@ return {
 -- ===== FILE: Spotted_Lantern_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000105 seconds
+-- Time taken: 0.000161 seconds
 -- Path: ReplicatedStorage/Items/Spotted Lantern Fish
 
 return {
@@ -4255,12 +4368,44 @@ return {
 	_moduleScript = script;
 }
 
+-- ===== FILE: Starfish.lua =====
+-- Decompiler will be improved VERY SOON!
+-- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
+-- Decompiled on 2025-09-01 22:14:25
+-- Luau version 6, Types version 3
+-- Time taken: 0.000154 seconds
+-- Path: ReplicatedStorage/Items/Starfish
+
+return {
+    Data = {
+        Description = "";
+        Icon = "rbxassetid://93878183859150";
+        Id = 209;
+        Name = "Starfish";
+        Tier = 3;
+        Type = "Fishes";
+    };
+    Probability = {
+        Chance = 0.0033333333333333335;
+    };
+    SellPrice = 385;
+    Variants = {
+    };
+    Weight = {
+        Big = NumberRange.new(0.5799999833106995, 0.9200000166893005);
+        Default = NumberRange.new(0.20999999344348907, 0.3700000047683716);
+    };
+    _moduleScript = nil;
+,
+	_moduleScript = script;
+}
+
 -- ===== FILE: Starjam_Tang.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000121 seconds
+-- Time taken: 0.000145 seconds
 -- Path: ReplicatedStorage/Items/Starjam Tang
 
 return {
@@ -4290,9 +4435,9 @@ return {
 -- ===== FILE: Strawberry_Dotty.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000103 seconds
+-- Time taken: 0.000198 seconds
 -- Path: ReplicatedStorage/Items/Strawberry Dotty
 
 return {
@@ -4322,9 +4467,9 @@ return {
 -- ===== FILE: Strippled_Seahorse.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000118 seconds
+-- Time taken: 0.000116 seconds
 -- Path: ReplicatedStorage/Items/Strippled Seahorse
 
 return {
@@ -4351,42 +4496,12 @@ return {
 	_moduleScript = script;
 }
 
--- ===== FILE: Super_Enchant_Stone.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:13
--- Luau version 6, Types version 3
--- Time taken: 0.000126 seconds
--- Path: ReplicatedStorage/Items/Super Enchant Stone
-
-return {
-    Data = {
-        Description = "Used for enchanting Fishing Rods!";
-        Icon = "rbxassetid://131638728415711";
-        Id = 125;
-        Name = "Super Enchant Stone";
-        Tier = 6;
-        Type = "EnchantStones";
-    };
-    Enchants = {
-        ["Cursed I"] = 20;
-        ["Empowered I"] = 20;
-        ["Leprechaun II"] = 20;
-        ["Mutation Hunter II"] = 20;
-        ["Prismatic I"] = 20;
-    };
-    SellPrice = 0;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
 -- ===== FILE: Sushi_Cardinal.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000159 seconds
+-- Time taken: 0.000114 seconds
 -- Path: ReplicatedStorage/Items/Sushi Cardinal
 
 return {
@@ -4416,9 +4531,9 @@ return {
 -- ===== FILE: Swordfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000121 seconds
+-- Time taken: 0.000190 seconds
 -- Path: ReplicatedStorage/Items/Swordfish
 
 return {
@@ -4448,9 +4563,9 @@ return {
 -- ===== FILE: Thresher_Shark.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000136 seconds
+-- Time taken: 0.000132 seconds
 -- Path: ReplicatedStorage/Items/Thresher Shark
 
 return {
@@ -4480,9 +4595,9 @@ return {
 -- ===== FILE: Tricolore_Butterfly.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000108 seconds
+-- Time taken: 0.000130 seconds
 -- Path: ReplicatedStorage/Items/Tricolore Butterfly
 
 return {
@@ -4512,9 +4627,9 @@ return {
 -- ===== FILE: Unicorn_Tang.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000121 seconds
+-- Time taken: 0.000113 seconds
 -- Path: ReplicatedStorage/Items/Unicorn Tang
 
 return {
@@ -4544,9 +4659,9 @@ return {
 -- ===== FILE: Vampire_Squid.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000172 seconds
+-- Time taken: 0.000129 seconds
 -- Path: ReplicatedStorage/Items/Vampire Squid
 
 return {
@@ -4576,9 +4691,9 @@ return {
 -- ===== FILE: Vintage_Blue_Tang.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000123 seconds
+-- Time taken: 0.000112 seconds
 -- Path: ReplicatedStorage/Items/Vintage Blue Tang
 
 return {
@@ -4608,9 +4723,9 @@ return {
 -- ===== FILE: Vintage_Damsel.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000117 seconds
+-- Time taken: 0.000224 seconds
 -- Path: ReplicatedStorage/Items/Vintage Damsel
 
 return {
@@ -4640,9 +4755,9 @@ return {
 -- ===== FILE: Viperfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000106 seconds
+-- Time taken: 0.000118 seconds
 -- Path: ReplicatedStorage/Items/Viperfish
 
 return {
@@ -4672,9 +4787,9 @@ return {
 -- ===== FILE: Volcanic_Basslet.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000165 seconds
+-- Time taken: 0.000137 seconds
 -- Path: ReplicatedStorage/Items/Volcanic Basslet
 
 return {
@@ -4704,9 +4819,9 @@ return {
 -- ===== FILE: Volsail_Tang.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000117 seconds
+-- Time taken: 0.000150 seconds
 -- Path: ReplicatedStorage/Items/Volsail Tang
 
 return {
@@ -4733,12 +4848,44 @@ return {
 	_moduleScript = script;
 }
 
+-- ===== FILE: Wahoo.lua =====
+-- Decompiler will be improved VERY SOON!
+-- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
+-- Decompiled on 2025-09-01 22:14:25
+-- Luau version 6, Types version 3
+-- Time taken: 0.000549 seconds
+-- Path: ReplicatedStorage/Items/Wahoo
+
+return {
+    Data = {
+        Description = "";
+        Icon = "rbxassetid://88311721896238";
+        Id = 211;
+        Name = "Wahoo";
+        Tier = 2;
+        Type = "Fishes";
+    };
+    Probability = {
+        Chance = 0.015384615384615385;
+    };
+    SellPrice = 105;
+    Variants = {
+    };
+    Weight = {
+        Big = NumberRange.new(10.199999809265137, 13.399999618530273);
+        Default = NumberRange.new(7.400000095367432, 9.600000381469727);
+    };
+    _moduleScript = nil;
+,
+	_moduleScript = script;
+}
+
 -- ===== FILE: Watanabei_Angelfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000121 seconds
+-- Time taken: 0.000124 seconds
 -- Path: ReplicatedStorage/Items/Watanabei Angelfish
 
 return {
@@ -4768,9 +4915,9 @@ return {
 -- ===== FILE: White_Clownfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000173 seconds
+-- Time taken: 0.000127 seconds
 -- Path: ReplicatedStorage/Items/White Clownfish
 
 return {
@@ -4800,9 +4947,9 @@ return {
 -- ===== FILE: White_Tang.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000164 seconds
+-- Time taken: 0.000128 seconds
 -- Path: ReplicatedStorage/Items/White Tang
 
 return {
@@ -4832,9 +4979,9 @@ return {
 -- ===== FILE: Worm_Fish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:25
 -- Luau version 6, Types version 3
--- Time taken: 0.000125 seconds
+-- Time taken: 0.000170 seconds
 -- Path: ReplicatedStorage/Items/Worm Fish
 
 return {
@@ -4864,9 +5011,9 @@ return {
 -- ===== FILE: Yello_Damselfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000106 seconds
+-- Time taken: 0.000116 seconds
 -- Path: ReplicatedStorage/Items/Yello Damselfish
 
 return {
@@ -4879,7 +5026,7 @@ return {
         Type = "Fishes";
     };
     Probability = {
-        Chance = 0.01818181818181818;
+        Chance = 0.02;
     };
     SellPrice = 99;
     Variants = {
@@ -4896,9 +5043,9 @@ return {
 -- ===== FILE: Yellowfin_Tuna.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000458 seconds
+-- Time taken: 0.000133 seconds
 -- Path: ReplicatedStorage/Items/Yellowfin Tuna
 
 return {
@@ -4928,9 +5075,9 @@ return {
 -- ===== FILE: Yellowstate_Angelfish.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000144 seconds
+-- Time taken: 0.000206 seconds
 -- Path: ReplicatedStorage/Items/Yellowstate Angelfish
 
 return {
@@ -4960,9 +5107,9 @@ return {
 -- ===== FILE: Zoster_Butterfly.lua =====
 -- Decompiler will be improved VERY SOON!
 -- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
+-- Decompiled on 2025-09-01 22:14:24
 -- Luau version 6, Types version 3
--- Time taken: 0.000105 seconds
+-- Time taken: 0.000124 seconds
 -- Path: ReplicatedStorage/Items/Zoster Butterfly
 
 return {
@@ -4989,508 +5136,3 @@ return {
 	_moduleScript = script;
 }
 
--- ===== FILE: ____Abyssal_Chroma.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000070 seconds
--- Path: ReplicatedStorage/Items/!!! Abyssal Chroma
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://124678532461341";
-        Id = 167;
-        Name = "Abyssal Chroma";
-        Tier = 100;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Aether_Shard.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000100 seconds
--- Path: ReplicatedStorage/Items/!!! Aether Shard
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://125006628928474";
-        Id = 177;
-        Name = "Aether Shard";
-        Tier = 2;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Amber.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
--- Luau version 6, Types version 3
--- Time taken: 0.000132 seconds
--- Path: ReplicatedStorage/Items/!!! Amber
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://92025920580149";
-        Id = 178;
-        Name = "Amber";
-        Tier = 2;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Aqua_Prism.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000202 seconds
--- Path: ReplicatedStorage/Items/!!! Aqua Prism
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://108606190037759";
-        Id = 171;
-        Name = "Aqua Prism";
-        Tier = 100;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Aquatic.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000087 seconds
--- Path: ReplicatedStorage/Items/!!! Aquatic
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://113612903290719";
-        Id = 170;
-        Name = "Aquatic";
-        Tier = 100;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Blossom.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000100 seconds
--- Path: ReplicatedStorage/Items/!!! Blossom
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://128521809779947";
-        Id = 172;
-        Name = "Blossom";
-        Tier = 100;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Crystalized.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000080 seconds
--- Path: ReplicatedStorage/Items/!!! Crystalized
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://103493787682868";
-        Id = 134;
-        Name = "Crystalized";
-        Tier = 7;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Cursed.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
--- Luau version 6, Types version 3
--- Time taken: 0.000260 seconds
--- Path: ReplicatedStorage/Items/!!! Cursed
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://131975420788500";
-        Id = 180;
-        Name = "Cursed";
-        Tier = 6;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Earthly.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000088 seconds
--- Path: ReplicatedStorage/Items/!!! Earthly
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://130277486101163";
-        Id = 132;
-        Name = "Earthly";
-        Tier = 2;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Enlightened.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
--- Luau version 6, Types version 3
--- Time taken: 0.000076 seconds
--- Path: ReplicatedStorage/Items/!!! Enlightened
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://135282537420782";
-        Id = 193;
-        Name = "Enlightened";
-        Tier = 7;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Flower_Garden.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000105 seconds
--- Path: ReplicatedStorage/Items/!!! Flower Garden
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://131572620708470";
-        Id = 179;
-        Name = "Flower Garden";
-        Tier = 3;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Forsaken.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000091 seconds
--- Path: ReplicatedStorage/Items/!!! Forsaken
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://116453364785174";
-        Id = 127;
-        Name = "Forsaken";
-        Tier = 5;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Galactic.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
--- Luau version 6, Types version 3
--- Time taken: 0.000078 seconds
--- Path: ReplicatedStorage/Items/!!! Galactic
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://127771159160485";
-        Id = 192;
-        Name = "Galactic";
-        Tier = 7;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Heavenly.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000086 seconds
--- Path: ReplicatedStorage/Items/!!! Heavenly
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://93080233675189";
-        Id = 173;
-        Name = "Heavenly";
-        Tier = 100;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Jelly.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:15
--- Luau version 6, Types version 3
--- Time taken: 0.000072 seconds
--- Path: ReplicatedStorage/Items/!!! Jelly
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://140074706748952";
-        Id = 181;
-        Name = "Jelly";
-        Tier = 7;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Lightning.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000111 seconds
--- Path: ReplicatedStorage/Items/!!! Lightning
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://101379332743485";
-        Id = 174;
-        Name = "Lightning";
-        Tier = 100;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Lightsaber.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000092 seconds
--- Path: ReplicatedStorage/Items/!!! Lightsaber
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://99584235204159";
-        Id = 130;
-        Name = "Lightsaber";
-        Tier = 100;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Loving.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000086 seconds
--- Path: ReplicatedStorage/Items/!!! Loving
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://112586849729572";
-        Id = 175;
-        Name = "Loving";
-        Tier = 100;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Monochrome.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000083 seconds
--- Path: ReplicatedStorage/Items/!!! Monochrome
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://90210469908392";
-        Id = 148;
-        Name = "Monochrome";
-        Tier = 4;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Neptune_s_Trident.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000070 seconds
--- Path: ReplicatedStorage/Items/!!! Neptune's Trident
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://101209529442976";
-        Id = 133;
-        Name = "Neptune's Trident";
-        Tier = 6;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Polarized.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000066 seconds
--- Path: ReplicatedStorage/Items/!!! Polarized
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://127763221923032";
-        Id = 128;
-        Name = "Polarized";
-        Tier = 2;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
-
--- ===== FILE: ____Red_Matter.lua =====
--- Decompiler will be improved VERY SOON!
--- Decompiled with Konstant V2.1, a fast Luau decompiler made in Luau by plusgiant5 (https://discord.gg/brNTY8nX8t)
--- Decompiled on 2025-08-27 17:44:14
--- Luau version 6, Types version 3
--- Time taken: 0.000081 seconds
--- Path: ReplicatedStorage/Items/!!! Red Matter
-
-return {
-    Data = {
-        Description = "";
-        Icon = "rbxassetid://126405191333384";
-        Id = 131;
-        Name = "Red Matter";
-        Tier = 100;
-        Type = "Fishing Rods";
-    };
-    IsSkin = true;
-    _moduleScript = nil;
-,
-	_moduleScript = script;
-}
